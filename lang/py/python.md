@@ -1,4 +1,4 @@
 # Python
 
-## [Cloning a Django Project and Setting It Up](py/django-clone)
-## [Creating a Virtual Env](py/venv)
+## [Cloning a Django Project and Setting It Up](../django-clone)
+## [Creating a Virtual Env](../venv)
